@@ -1,0 +1,109 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.welcome{
+      background-color: #87509c;
+    width: 100%;
+    
+    height: 100%;
+    padding: 25px;
+}
+.ExtraCssUl li a{
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: 400;
+}
+.ExtraCssUl li:hover{
+  border: 1px solid #643a79;
+  background-color:#643a79;
+  border-radius:5px;
+
+}
+.ExtraCssUl li:active{
+   border: 1px solid #643a79;
+  background-color:#643a79;
+  border-radius:5px;
+}
+li.nav-item {
+    margin-right: 15px;
+    padding: 0px 5px;
+}
+
+.MainHeading {
+  /*border: 2px solid red;*/
+    text-align: center;
+}
+.MainHeading p{
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    color:#f7f3ea;
+}
+.MainHeading button{
+    background-color: #eb7d4b;
+    color: white;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 20px;
+    border-bottom: 5px solid #c86a40;
+}
+.service{
+  background-color: #17c2a4;
+  width: 100%;
+  height: 100%;
+  padding: 60px;
+}
+.serviceHeadingCss{
+  text-align: center;
+
+}
+.serviceHeadingCssCol h3{
+  color: white;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+.serviceHeadingCssCol p{
+  color: white;
+    font-family: 'Titillium Web', sans-serif;
+    text-align: center;
+    margin-top: 30px;
+    font-weight: 400;
+    /*border: 2px solid red;*/
+}
+.hr {
+    background-color: #14a58c;
+    width: 10%;
+    height: 5px;
+    position: absolute;
+    right: 45%;
+}
+.row2Service {
+    margin-top: 70px;
+}
+.colService{
+  text-align: center;
+  background-color: #17c2a4;
+  border: 0px;
+}
+.colService h5{
+   color: white;
+    font-family: 'Titillium Web', sans-serif;
+    
+    font-weight: 700;
+}
+.colService p{
+  color: white;
+    font-family: 'Titillium Web', sans-serif;
+    
+    font-weight: 300;
+}
+.fa-bars{
+  color: white;
+}
+.row.row2 {
+    margin: 100px 0px;
+}
